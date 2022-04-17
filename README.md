@@ -1,3 +1,3 @@
-## Charging Stations App
+# Charging Stations App
 
-# By Jason Allan 2022
+## By Jason Allan 2022
